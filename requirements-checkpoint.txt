@@ -1,0 +1,9 @@
+torch==2.0.1
+torchvision==0.15.2
+opencv-python-headless==4.10.0.82
+ultralytics
+pyqt5==5.15.7
+pennylane
+pennylane-qiskit
+
+
