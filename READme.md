@@ -1,6 +1,6 @@
 # To run the script, navigate to the weights directory and execute
 
-## Quantum AI Tool
+## main.py
 
 ### Overview
 
