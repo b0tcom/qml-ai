@@ -11,8 +11,7 @@ Quantum AI Tool is a facial recognition and aim assist tool designed for gaming.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/quantum-ai-tool.git
-    cd quantum-ai-tool
+    git clone https://github.com/b0tcom/qml-ai.git
     ```
 
 2. Install the required Python packages:
